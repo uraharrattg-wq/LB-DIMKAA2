@@ -1,9 +1,9 @@
 // values.js
 
 // Основные данные 
-var fio               = "Уваров Ярослав Евгеньевич";
+var fio               = "Коваленко Андрій Сергійович";
 var fio_en            = "Aksenov Rustam";
-var birth             = "14.10.2007"; //дата рождения
+var birth             = "17.06.2007"; //дата рождения
 var date_give         = "18.11.2019"; //Дата видачи
 var date_out          = "08.09.2026"; // действителен до
 var organ             = "5149"; //орган что выдал документ
@@ -60,13 +60,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "image_2025-10-23_20-45-08.png"; //эДок, паспорт,
-var photo_rights   = "image_2025-10-23_20-45-08.png"; //права
-var photo_students = "image_2025-10-23_20-45-08.png"; //диплом, студ
-var photo_zagran   = "image_2025-10-23_20-45-08.png"; //загран
+var photo_passport = "photo_2025-10-23_21-07-23.jpg"; //эДок, паспорт,
+var photo_rights   = "photo_2025-10-23_21-07-23.jpg"; //права
+var photo_students = "photo_2025-10-23_21-07-23.jpg"; //диплом, студ
+var photo_zagran   = "photo_2025-10-23_21-07-23.jpg"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
